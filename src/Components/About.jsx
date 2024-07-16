@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "To obtain a challenging programming position that allows me to utilize my technical and analytical skills develop innovative software solutions while continuously learning improving expertise in languages development tools.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "As a passionate student of Full Stack Web Development, I am driven by a relentless curiosity for technology and a desire to create meaningful digital experiences. Currently enrolled in a comprehensive program, I am honing my skills in both front-end and back-end development, mastering languages such as HTML, CSS, JavaScript, BootStrap, and Python. With a strong foundation in problem-solving and critical thinking, I thrive in collaborative environments where I can contribute innovative solutions and learn from experienced professionals. My goal is to leverage my education and hands-on experience to pursue a career in web development, where I can continuously grow and make a positive impact through my work. Outside of coding, I am an avid learner, always seeking out new challenges and opportunities to expand my knowledge. I am excited about the possibilities that technology offers and am committed to staying at the forefront of industry trends. Let's connect and explore how we can collaborate to bring digital ideas to life.";
 
 const About = () => {
   return (
