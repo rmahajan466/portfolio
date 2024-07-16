@@ -27087,15 +27087,15 @@ var _stylesCss = require("./styles.css");
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
-    name: "Alexandrie Grenier",
-    title: "Web Designer & Content Creator",
-    email: "alex@example.com",
-    gitHub: "microsoft",
-    instagram: "microsoft",
-    linkedIn: "satyanadella",
+    name: "Raghav Mahajan",
+    title: "Full Stack Web Developer & Python Developer",
+    email: "raghavmahajan965@gmail.com",
+    gitHub: "https://github.com/rmahajan466",
+    instagram: "",
+    linkedIn: "https://www.linkedin.com/in/raghav-mahajan-jsk777/",
     medium: "",
-    twitter: "microsoft",
-    youTube: "Code"
+    twitter: "https://x.com/rg_mhjn",
+    youTube: ""
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -27182,7 +27182,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+ */ const description = "To obtain a challenging programming position that allows me to utilize my technical and analytical skills develop innovative software solutions while continuously learning improving expertise in languages development tools.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -27198,7 +27198,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = "As a passionate student of Full Stack Web Development, I am driven by a relentless curiosity for technology and a desire to create meaningful digital experiences. Currently enrolled in a comprehensive program, I am honing my skills in both front-end and back-end development, mastering languages such as HTML, CSS, JavaScript, BootStrap, and Python. With a strong foundation in problem-solving and critical thinking, I thrive in collaborative environments where I can contribute innovative solutions and learn from experienced professionals. My goal is to leverage my education and hands-on experience to pursue a career in web development, where I can continuously grow and make a positive impact through my work. Outside of coding, I am an avid learner, always seeking out new challenges and opportunities to expand my knowledge. I am excited about the possibilities that technology offers and am committed to staying at the forefront of industry trends. Let's connect and explore how we can collaborate to bring digital ideas to life.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -28759,24 +28759,24 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "10 Things To Know About Azure Static Web Apps \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-        url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+        title: "Hangman",
+        description: "A very interesting game developed in my high school and updated in my college project.",
+        url: "https://github.com/rmahajan466/PU_Project-01_Sem02"
     },
     {
-        title: "Web Development for Beginners",
-        description: "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-        url: "https://github.com/microsoft/web-dev-for-beginners"
+        title: "Quizzing Game",
+        description: "This game gives you random question and you have to answer it from options given.",
+        url: "https://github.com/rmahajan466/Quizzing-Game-using-python"
     },
     {
         title: "My Resume Site",
         description: "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-        url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+        url: "https://rmahajan466.github.io/aadi_foundation_resume-_building/Resume%20Building/Index.html"
     },
     {
-        title: "GitHub Codespaces and github.dev",
-        description: "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-        url: "https://www.youtube.com/watch?v=c3hHhRME_XI"
+        title: "Snake Game",
+        description: "A very short and simple traditional game which is developed using python.",
+        url: "https://github.com/rmahajan466/Snake-game"
     }, 
 ];
 const Portfolio = ()=>{
